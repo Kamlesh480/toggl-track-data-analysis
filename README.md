@@ -1,3 +1,4 @@
+Toggl Track Data Analysis Project Summary
 The goal of this project is to analyze my time tracking data from the past 6 months using Toggl Track. The data includes records of various activities, such as coding, project work, attending calls, conducting research, and more.
 
 To achieve this goal, I plan to perform the following steps:
