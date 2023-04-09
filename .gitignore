@@ -1,0 +1,5 @@
+# untrack files
+*credentials.py
+*fetched_data
+*__pycache__
+env/
