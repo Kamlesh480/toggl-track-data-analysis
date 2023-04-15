@@ -1,0 +1,37 @@
+{
+    "end_date": "string",
+    "first_id": "integer",
+    "first_row_number": "integer",
+    "first_timestamp": "integer",
+    "group_ids": [
+        "integer"
+    ],
+    "grouped": "boolean",
+    "hide_amounts": "boolean",
+    "max_duration_seconds": "integer",
+    "min_duration_seconds": "integer",
+    "order_by": "string",
+    "order_dir": "string",
+    "postedFields": [
+        "string"
+    ],
+    "project_ids": [
+        "integer"
+    ],
+    "rounding": "integer",
+    "rounding_minutes": "integer",
+    "startTime": "string",
+    "start_date": "string",
+    "tag_ids": [
+        "integer"
+    ],
+    "task_ids": [
+        "integer"
+    ],
+    "time_entry_ids": [
+        "integer"
+    ],
+    "user_ids": [
+        "integer"
+    ]
+}
